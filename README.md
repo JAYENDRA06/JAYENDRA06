@@ -12,9 +12,9 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -54,6 +54,6 @@
 <p align="center">
 <a href="https://this-is-jay.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-this_is_jay.vercel.app-blue?style=for-the-badge&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jayendra-awasthi-938152213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jayendra%20Awasthi-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.instagram.com/jay.awasthi06/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jay.awasthi06-blue?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.behance.net/jayendraawasthi"><img alt="Behance" src="https://img.shields.io/badge/Behance-jayendraawasthi-blue?style=for-the-badge&logo=behance"></a>
 <a href="mailto:jayendraawasthi06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jayendraawasthi06@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p>
