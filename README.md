@@ -45,7 +45,7 @@
 <br/>
 
 <h3> 🏆 &nbsp;Award winning project </h3>
-<p><a href='https://github.com/DOC-UDI'>DOC-UDI</a></p>
+<h4><a href='https://github.com/DOC-UDI'>DOC-UDI</a></h4>
 <img src='https://avatars.githubusercontent.com/u/122612411?s=200&v=4' />
 <p>Won 2nd prize & best design in VinHack2023</p>
 
