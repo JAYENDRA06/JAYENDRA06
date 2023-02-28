@@ -35,6 +35,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Premier_pro](https://img.shields.io/badge/-Premiere%20pro-333333?style=flat&logo=adobe-premiere-pro)
 
 <br/>
 
