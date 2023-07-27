@@ -1,4 +1,4 @@
-<h1> Hey there! I'm Jayendra. <a href='https://drive.google.com/file/d/1Y8EYv93cioKGONRYu9C09aS0B9Hm_-lb/view?usp=sharing'><img alt='resume' src='https://img.shields.io/badge/dowload%20resume-grey?style=for-the-badge'></img></a></h1>
+<h1> Hey there! I'm Jayendra. <a href='https://drive.google.com/file/d/13wbo8HGrM8rrs2_Ajx_aKx9XuTXblr1k/view?usp=drive_link'><img alt='resume' src='https://img.shields.io/badge/dowload%20resume-grey?style=for-the-badge'></img></a></h1>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
