@@ -43,6 +43,7 @@
 <a href="https://github.com/JAYENDRA06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAYENDRA06&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYENDRA06&theme=buefy&layout=compact" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAYENDRA06&" />
 </a>
 
 <br/>
