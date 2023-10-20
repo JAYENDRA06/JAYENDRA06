@@ -7,7 +7,6 @@
 - 🤔 &nbsp; I do full stack web development and UI/UX designing.
 - 🏢 &nbsp; I live in lucknow, India.
 - 🎓 &nbsp; Studying Computer Science and Engineering at VIT,Vellore.
-- 📱 &nbsp; Learning more about mobile application development using react-native.
 - ⚽ &nbsp; Sketching, football and anime are my mood easers.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
