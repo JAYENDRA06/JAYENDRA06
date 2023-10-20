@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🧑🏻‍💻 &nbsp; Cuurently Learning C#.NET
+- 🧑🏻‍💻 &nbsp; Curently Learning C#.NET
 - 🤔 &nbsp; I do full stack web development and UI/UX designing.
 - 🏢 &nbsp; I live in lucknow, India.
 - 🎓 &nbsp; Studying Computer Science and Engineering at VIT,Vellore.
