@@ -1,51 +1,42 @@
-<h1> Hey there! I'm Jayendra. <a href='https://drive.google.com/file/d/13wbo8HGrM8rrs2_Ajx_aKx9XuTXblr1k/view?usp=drive_link'><img alt='resume' src='https://img.shields.io/badge/dowload%20resume-grey?style=for-the-badge'></img></a></h1>
+<h1> Hey there! I'm Jayendra. <a href='https://drive.google.com/file/d/13BzX3lSwxBLVZUwE18f7Xo2ZhdM5gBKP/view?usp=sharing'><img alt='resume' src='https://img.shields.io/badge/dowload%20resume-grey?style=for-the-badge'></img></a></h1>
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🧑🏻‍💻 &nbsp; Currently Learning C#.NET
-- 🤔 &nbsp; I do full stack web development and UI/UX designing.
-- 🏢 &nbsp; I live in lucknow, India.
-- 🎓 &nbsp; Studying Computer Science and Engineering at VIT,Vellore.
-- ⚽ &nbsp; Sketching, football and anime are my mood easers.
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%23)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React-native](https://img.shields.io/badge/-React%20native-333333?style=flat&logo=react)
-  ![Electron.js](https://img.shields.io/badge/-Electron.js-333333?style=flat&logo=electron)
+  ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![dotnet](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=%2ENET)
 - 📔 &nbsp;
   ![Framer](https://img.shields.io/badge/Framer-333333?style=flat&logo=framer)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+  ![ChakraUI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakra-ui)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🎨 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Premier_pro](https://img.shields.io/badge/-Premiere%20pro-333333?style=flat&logo=adobe-premiere-pro)
 
 <br/>
 
-<a href="https://github.com/JAYENDRA06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAYENDRA06&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYENDRA06&theme=buefy&layout=compact" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAYENDRA06&" />
-</a>
-
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAYENDRA06&theme=aura_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JAYENDRA06&theme=aura_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JAYENDRA06&theme=aura_dark)
+  
 <br/>
 
 <h3> 🏆 &nbsp;Award winning project </h3>
