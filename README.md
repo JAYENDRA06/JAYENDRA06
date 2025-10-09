@@ -9,6 +9,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%23)
+  ![GO lang](https://img.shields.io/badge/Go-333333?style=flat&logo=Go)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -47,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://this-is-jay.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-this_is_jay.vercel.app-blue?style=for-the-badge&logo=google-chrome"></a>
+<a href="https://jayendra.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-jayendra.vercel.app-blue?style=for-the-badge&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jayendra-awasthi-938152213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jayendra%20Awasthi-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.behance.net/jayendraawasthi"><img alt="Behance" src="https://img.shields.io/badge/Behance-jayendraawasthi-blue?style=for-the-badge&logo=behance"></a>
 <a href="mailto:jayendraawasthi06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jayendraawasthi06@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
